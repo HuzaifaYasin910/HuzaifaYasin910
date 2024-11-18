@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a self-taught technologist, cloud enthusiast, and web developer with more than 3 years of experience in a Web application, software development, and interactive programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design, and Problem-solving skills.
+I am a self-taught programmer, cloud and networking enthusiast, and web developer with more than 3 years of experience in a Web application, software development, and interactive programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design, and Problem-solving skills.
 
 User Interface Designer and Expert Software developer with in-depth knowledge of HTML, CSS, JavaScript as well as a solid understanding of Python language.
 
