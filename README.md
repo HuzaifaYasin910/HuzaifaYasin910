@@ -13,11 +13,11 @@
 </picture>
 
 
-I am a self-taught programmer, cloud and networking enthusiast, and web developer with more than 3 years of experience in a Web application, software development, and interactive programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design, and Problem-solving skills.
+I am a self-taught programmer, cloud and networking enthusiast, and web developer with more than 3 years of experience in a Web application, software development, and interactive programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions.
 
 User Interface Designer and Expert Software developer with in-depth knowledge of HTML, CSS, JavaScript as well as a solid understanding of Python language.
 
-My objectives in software and web development are to continuously update my knowledge, improve my skills, and acquire new frameworks and tools to solve novel problems
+My objectives in software and web development are to continuously update my knowledge, improve my skills, and acquire new frameworks and tools.
 
 As a webdeveloper , programmer and cloud enthusiast, I found that my most significant accomplishments in my learning career are self-dependence, problem-solving and eagerness to learn.
 
