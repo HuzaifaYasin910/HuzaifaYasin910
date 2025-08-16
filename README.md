@@ -1,5 +1,18 @@
 # Hi there 👋
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+
 I am a self-taught programmer, cloud and networking enthusiast, and web developer with more than 3 years of experience in a Web application, software development, and interactive programming in various domains. Experienced in designing and developing Service Oriented & Object Oriented solutions. Excellent analytical, Design, and Problem-solving skills.
 
 User Interface Designer and Expert Software developer with in-depth knowledge of HTML, CSS, JavaScript as well as a solid understanding of Python language.
